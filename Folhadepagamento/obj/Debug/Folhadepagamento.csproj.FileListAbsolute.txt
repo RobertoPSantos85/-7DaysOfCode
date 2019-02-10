@@ -1,0 +1,17 @@
+C:\Users\rober\documents\visual studio 2015\Projects\Folhadepagamento\obj\Debug\Folhadepagamento.csprojResolveAssemblyReference.cache
+C:\Users\rober\documents\visual studio 2015\Projects\Folhadepagamento\obj\Debug\Folhadepagamento.Properties.Resources.resources
+C:\Users\rober\documents\visual studio 2015\Projects\Folhadepagamento\obj\Debug\Folhadepagamento.csproj.GenerateResource.Cache
+C:\Users\rober\documents\visual studio 2015\Projects\Folhadepagamento\bin\Debug\Folhadepagamento.exe
+C:\Users\rober\documents\visual studio 2015\Projects\Folhadepagamento\bin\Debug\Folhadepagamento.pdb
+C:\Users\rober\documents\visual studio 2015\Projects\Folhadepagamento\obj\Debug\Folhadepagamento.exe
+C:\Users\rober\documents\visual studio 2015\Projects\Folhadepagamento\obj\Debug\Folhadepagamento.pdb
+C:\Users\rober\documents\visual studio 2015\Projects\Folhadepagamento\obj\Debug\Folhadepagamento.Folhadepagamento.resources
+E:\Pendrive\C#\projetos\Folhadepagamento\bin\Debug\Folhadepagamento.exe
+E:\Pendrive\C#\projetos\Folhadepagamento\bin\Debug\Folhadepagamento.pdb
+E:\Pendrive\C#\projetos\Folhadepagamento\obj\Debug\Folhadepagamento.csprojResolveAssemblyReference.cache
+E:\Pendrive\C#\projetos\Folhadepagamento\obj\Debug\Folhadepagamento.Folhadepagamento.resources
+E:\Pendrive\C#\projetos\Folhadepagamento\obj\Debug\Folhadepagamento.Properties.Resources.resources
+E:\Pendrive\C#\projetos\Folhadepagamento\obj\Debug\Folhadepagamento.csproj.GenerateResource.Cache
+E:\Pendrive\C#\projetos\Folhadepagamento\obj\Debug\Folhadepagamento.csproj.CoreCompileInputs.cache
+E:\Pendrive\C#\projetos\Folhadepagamento\obj\Debug\Folhadepagamento.exe
+E:\Pendrive\C#\projetos\Folhadepagamento\obj\Debug\Folhadepagamento.pdb
